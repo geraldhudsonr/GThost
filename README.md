@@ -8,9 +8,6 @@ GThost 是一家提供广泛数据中心位置的VPS和独立服务器提供商�
 ## GThost 官网地址
 [www.gthost.com](https://cp.gthost.com/en/join/0b26e5e9a6bb75c8989c160e795f69ce)
 
-## GThost 优惠码
-目前GThost没有进行特别的优惠码提供，请访问[GThost 官网](https://cp.gthost.com/en/join/0b26e5e9a6bb75c8989c160e795f69ce) 查看最新优惠活动。
-
 ## GThost 怎么样
 GThost 提供从低成本VPS到高性能独立服务器的多样化产品，满足各种业务需求。特别是其在美国和加拿大的数据中心，提供极佳的连接速度和稳定性。此外，GThost的服务器支持即时部署，大多数配置在支付后5到15分钟内即可上线。
 
