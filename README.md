@@ -1,4 +1,4 @@
-# GThost优惠码，GThost怎么样，GThost评测
+# GThost怎么样？GThost介绍和测评
 
 ## GThost 介绍
 GThost 是一家提供广泛数据中心位置的VPS和独立服务器提供商，成立于2012年，总部位于加拿大。主要提供高性能的10Gbps带宽VPS和GPU服务器，覆盖北美、欧洲及亚洲多个主要城市。GThost以其稳定的服务和没有促销的一贯定价政策受到用户好评。
@@ -27,7 +27,7 @@ GThost在以下地点有数据中心：
 
 提供多种服务器配置，以下是最受欢迎的配置：
 
-### 1Gbps 独服，起价 $59/月 [https://gthost.com/instant-servers](https://cp.gthost.com/en/join/0b26e5e9a6bb75c8989c160e795f69ce))
+### 1Gbps 独服，起价 $59/月 [https://gthost.com/instant-servers](https://cp.gthost.com/en/join/0b26e5e9a6bb75c8989c160e795f69ce)
 *   **E3-1265Lv3 (4核/8线程)**, 16GB DDR3, 1x480GB SSD, IPMI, 300M 不限流量 - $59
 *   **E3-1265Lv3 (4核/8线程)**, 32GB DDR3, 1x960GB SSD, IPMI, 300M 不限流量 - $64
 *   **E3-1265Lv3 (4核/8线程)**, 32GB DDR3, 1x1.92TB SSD, IPMI, 300M 不限流量 - $69
